@@ -186,5 +186,5 @@ If you found this project helpful:
 
 ## 📬 Contact
 
-Made with ❤️ by [Bishwaman Das](https://github.com/Anandmall)  
-Have questions? Open an [Issue](https://github.com/Anandmall/Employee-Performance-Prediction/issues)
+Made with ❤️ by [Bishwaman Das](https://github.com/bishwamanDas)  
+Have questions? Open an [Issue](https://github.com/bishwamanDas/Employee-Performance-Prediction/issues)
